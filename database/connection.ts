@@ -1,5 +1,5 @@
-import "https://deno.land/x/dotenv/load.ts";
-import { init, MongoClient } from "https://deno.land/x/mongo@v0.6.0/mod.ts";
+import "dot-env";
+import { init, MongoClient } from "mongo";
 
 // @ts-ignore
 await init();

@@ -1,7 +1,7 @@
 import {
     HandlerFunc,
     Context,
-} from "https://deno.land/x/abc@v1.0.0-rc2/mod.ts";
+  } from "abc";
 
 import connectionDatabase from "../../database/connection.ts";
 import { ErrorHandler } from "../../utils/handleError.ts";

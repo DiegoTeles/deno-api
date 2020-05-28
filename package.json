@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "abc":"https://deno.land/x/abc@v1.0.0-rc2/mod.ts",
+        "mongo":"https://deno.land/x/mongo@v0.6.0/mod.ts",
+        "dot-env":"https://deno.land/x/dotenv/load.ts"
+    }
+}

@@ -1,4 +1,4 @@
-import { MiddlewareFunc } from "https://deno.land/x/abc@v1.0.0-rc2/mod.ts";
+import { MiddlewareFunc } from "abc";
 
 export class ErrorHandler extends Error {
   status: number;

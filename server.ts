@@ -1,4 +1,4 @@
-import { Application } from "https://deno.land/x/abc@v1.0.0-rc2/mod.ts";
+import { Application } from "abc";
 import { ErrorMiddleware } from "./utils/handleError.ts";
 
 import {
